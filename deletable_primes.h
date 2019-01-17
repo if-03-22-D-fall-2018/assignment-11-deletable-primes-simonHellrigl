@@ -13,6 +13,9 @@
 #ifndef ___DELETABLE_PRIMES
 #define ___DELETABLE_PRIMES
 
+#include <math.h>
+#include <stdio.h>
+
 
 
 unsigned long remove_digit(int index, unsigned long number);

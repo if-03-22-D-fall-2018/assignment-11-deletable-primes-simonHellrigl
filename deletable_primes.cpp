@@ -12,7 +12,7 @@
  */
 
  #include "deletable_primes.h"
- #include <math.h>
+ 
  unsigned long remove_digit(int index, unsigned long number)
  {
    unsigned long left;
@@ -28,6 +28,6 @@
 
  int get_ways(unsigned long p)
  {
-   return 0;
+    return 0;
 
  }
